@@ -1,4 +1,4 @@
-FROM python:3.7.3-alpine
+FROM python:3.7-alpine
 MAINTAINER Utkarsh Jaiswal
 
 ENV PYTHONUNBUFFERED 1
