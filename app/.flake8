@@ -1,4 +1,5 @@
 [flake]
+max-line-length = 119
 exculde = 
     migrations,
     __pycache__,
