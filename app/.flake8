@@ -1,6 +1,5 @@
 [flake]
-max-line-length = 119
-exculde = 
+exclude = 
     migrations,
     __pycache__,
     manage.py,
